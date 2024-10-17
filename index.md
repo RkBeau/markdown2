@@ -16,3 +16,6 @@ var someVar = "Hello again, World!";
 ``` Python
 myVar = "HEllo World."
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
